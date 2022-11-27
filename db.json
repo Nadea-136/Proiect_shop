@@ -25,11 +25,11 @@
     "products": [
         {
             "id": 1,
-            "name": "LED display",
-            "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
-            "price": 92,
+            "name": "Ciocolata",
+            "description": "Ciocolate cu lapte si fructe",
+            "price": 50,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+            "photo_url": "https://github.com/Nadea-136/baza_de_date/blob/main/img/7-seg.jpg"
         },
         {
             "id": 2,
